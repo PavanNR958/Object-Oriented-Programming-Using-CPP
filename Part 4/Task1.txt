@@ -1,0 +1,2 @@
+which type of constructor is not possible 
+"friend constructor"

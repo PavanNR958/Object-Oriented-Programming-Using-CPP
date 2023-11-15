@@ -1,0 +1,8 @@
+which of the following must be supported by any programming language to become a pure oop language?
+A> Encapsulation
+B> Inheritance
+C> Polymorphism
+D> All of the above
+ 
+ ans>> D> all of the above
+ 

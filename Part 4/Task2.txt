@@ -1,0 +1,2 @@
+what is the way to declare a function virtual?
+"virtual int fun() { };"
