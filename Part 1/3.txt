@@ -1,2 +1,0 @@
-------- class cannot create its instance
-ans) abstract class
