@@ -1,0 +1,12 @@
+which of the  this  are allowed in c++ , B being the base class and D being the derived class
+A> B obj=D();
+B> D obj=B();
+c> B*ptr; D obj;
+   ptr=&ob;
+D> D*ptr; B obj;
+   ptr=&obj;
+
+ans>> B obj=D();
+
+      B*ptr; D obj;
+      ptr=&ob;

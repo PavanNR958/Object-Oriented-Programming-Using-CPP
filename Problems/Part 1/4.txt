@@ -1,0 +1,9 @@
+which is not a member of class?
+
+
+pure virtual function
+const function
+friend function
+static function
+
+ans= friend function
